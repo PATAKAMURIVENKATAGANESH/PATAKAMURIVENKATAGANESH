@@ -2,7 +2,7 @@
 
 Full Stack Developer | AI Engineer | Software Project Management
 
-🔭 I’m currently working on expanding my skills in Full Stack Development and AI.
+🔭 currently working on cool ideas.
 
 📫 reach out to me at ganeshpatakamuri@gmail.com
 
