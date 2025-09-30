@@ -9,4 +9,3 @@ Full Stack Developer | AI Engineer | Software Project Management
 
 ## Connect With Me 🤝
 - [LinkedIn](https://linkedin.com/in/tech-ganesh)
-- [LeetCode](https://leetcode.com/ganeshpatakamuri)
